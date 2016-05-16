@@ -16,6 +16,10 @@ public class MainActivity extends AppCompatActivity {
 
         //Commit by User : 2 (Second User)
 
+        // Pull operation performed sucessfully..
+
+        // Pushing to Github by First User...
+
 
     }
 }
