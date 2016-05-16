@@ -11,5 +11,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // Initial Commit by USER : 1 (First User)
+
+        //Second User: Added Splash Activity...
+
+        //Commit by User : 2 (Second User)
+
+
     }
 }
